@@ -1,8 +1,8 @@
-### Exercise from the readers
+### Exercises from the readers
 
-This repo is a compilation of the exercise from the readers of the [Haskell Book](http://haskellbook.com/).
+This repo is a compilation of the exercises from the readers of the [Haskell Programming from first principles](http://haskellbook.com/), also known as the Haskell Book.
 
-If you would like to add a link to your repo please create a pull request adding yourself.
+If you would like to collaborate adding a link to your repo please create a pull request adding your details.
 
 
 ### Exercises
