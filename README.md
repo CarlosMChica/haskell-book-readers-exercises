@@ -22,3 +22,4 @@ If you would like to collaborate adding a link to your repo please create a pull
 | <https://twitter.com/radusw>                    | <https://github.com/radusw/hpffp>                                               |
 | <https://twitter.com/prezcannady>               | <https://github.com/ocexercise/haskellbook-solutions>                           |
 | <https://twitter.com/NenLantea>                 | <https://github.com/Nenlantea/LetiLearningHaskell>                              |
+| <https://twitter.com/ptrfrncsmrph>              | <https://gitlab.com/ptrfrncsmrph/haskell-book>                              |
