@@ -26,3 +26,4 @@ If you would like to collaborate adding a link to your repo please create a pull
 | <https://www.linkedin.com/in/gmvolpe>           | <https://github.com/gvolpe/haskell-book-exercises>                              |
 | <https://twitter.com/jasonkuhrt>                | <https://github.com/jasonkuhrt/hpfp-answers>                                    |
 | <https://twitter.com/nettok>                    | <https://github.com/nettok/haskellbook-exercises>                               |
+| <https://twitter.com/ptrfrncsmrph>              | <https://gitlab.com/ptrfrncsmrph/haskell-book>                                  |
