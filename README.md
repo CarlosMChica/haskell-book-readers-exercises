@@ -23,3 +23,6 @@ If you would like to collaborate adding a link to your repo please create a pull
 | <https://twitter.com/prezcannady>               | <https://github.com/ocexercise/haskellbook-solutions>                           |
 | <https://twitter.com/NenLantea>                 | <https://github.com/Nenlantea/LetiLearningHaskell>                              |
 | <https://twitter.com/scarvalhojr>               | <https://github.com/scarvalhojr/haskellbook>                                    |
+| <https://www.linkedin.com/in/gmvolpe>           | <https://github.com/gvolpe/haskell-book-exercises>                              |
+| <https://twitter.com/jasonkuhrt>                | <https://github.com/jasonkuhrt/hpfp-answers>                                    |
+| <https://twitter.com/nettok>                    | <https://github.com/nettok/haskellbook-exercises>                               |
