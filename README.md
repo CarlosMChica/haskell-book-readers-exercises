@@ -28,3 +28,4 @@ If you would like to collaborate adding a link to your repo please create a pull
 | <https://twitter.com/nettok>                    | <https://github.com/nettok/haskellbook-exercises>                               |
 | <https://twitter.com/ptrfrncsmrph>              | <https://gitlab.com/ptrfrncsmrph/haskell-book>                                  |
 | <https://twitter.com/toraritte>                 | <https://github.com/sac-fp/HaskellBook-solutions>                               |
+| <https://github.com/evenbrenden>                 | <https://github.com/evenbrenden/haskellbook>                               |
